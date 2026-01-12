@@ -1,4 +1,5 @@
 # 猛兽派对钓鱼脚本
+<img width="700" height="321" alt="image" src="https://github.com/user-attachments/assets/3968f652-d324-4358-b92c-6de868d5f1d5" />
 
 #### 介绍
 {**猛兽派对钓鱼脚本**}
@@ -11,6 +12,8 @@
 3。多分辨率支持：支持不同分辨率的屏幕适配。
 4.配置管理：允许用户自定义脚本参数，并保存为配置文件。
 5.新增钓鱼计算器
+<img width="206" height="200" alt="image" src="https://github.com/user-attachments/assets/49d49a77-6d8a-4a99-8fbb-2b913a8f9aba" />
+
 
 快捷键交互：
 按2键：启用自动钓鱼。
